@@ -14,4 +14,6 @@ contains python scripts
 
 6. file 6-concat.py Concatenates strings and prints the result
 
-7. file 
+7. file 7-edges.py Prints some letters of a string.
+
+8. file 8-
