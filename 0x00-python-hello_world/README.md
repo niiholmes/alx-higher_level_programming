@@ -26,4 +26,4 @@ contains python scripts
 
 101. file 101-compile is Shell script that compiles a Python file
 
-102. file
+102. file 102-magic_calculator.py Python function that does exactly the same as a given disassembler
