@@ -8,4 +8,6 @@ contains python scripts
 
 3. file 3-print_number.py Prints a message with print function, using format.
 
-4. file
+4. file 4-print_float.py Prints a float with print function, using format and precission
+
+5. file
