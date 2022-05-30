@@ -12,4 +12,6 @@ contains python scripts
 
 5. file 5-print_string.py Prints 3 times a string using print function with format.
 
-6. file
+6. file 6-concat.py Concatenates strings and prints the result
+
+7. file 
