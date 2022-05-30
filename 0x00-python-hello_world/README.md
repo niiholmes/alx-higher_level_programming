@@ -16,4 +16,6 @@ contains python scripts
 
 7. file 7-edges.py Prints some letters of a string.
 
-8. file 8-
+8. file 8-concat_edges.py Prints some parts of a string
+
+9. file
