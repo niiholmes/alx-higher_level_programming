@@ -18,4 +18,6 @@ contains python scripts
 
 8. file 8-concat_edges.py Prints some parts of a string
 
-9. file
+9. file 9-easter_egg.py Prints "The Zen of Python"
+
+10. file
