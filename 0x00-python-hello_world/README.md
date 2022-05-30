@@ -6,4 +6,6 @@ contains python scripts
 
 2. file 2-print.py is  a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
-3. file
+3. file 3-print_number.py Prints a message with print function, using format.
+
+4. file
