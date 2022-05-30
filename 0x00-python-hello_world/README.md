@@ -10,4 +10,6 @@ contains python scripts
 
 4. file 4-print_float.py Prints a float with print function, using format and precission
 
-5. file
+5. file 5-print_string.py Prints 3 times a string using print function with format.
+
+6. file
