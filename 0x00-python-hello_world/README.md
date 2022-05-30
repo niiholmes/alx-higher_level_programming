@@ -2,4 +2,6 @@ contains python scripts
 
 0. file 0-run is a Shell script that runs a Python script saved in the variable $PYFILE.
 
-1. file
+1. file 1-run_inline is a Shell script that runs Python code and stored in an environment variable $PYCODE.
+
+2. file
