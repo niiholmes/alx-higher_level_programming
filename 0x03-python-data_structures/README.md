@@ -6,4 +6,6 @@ python files about data structures
 
 2. file 2-replace_in_list.py is a function that replaces an element of a list at a specific position (like in C).
 
-3. file 
+3. file 3-print_reversed_list_integer.py is a function that prints all integers of a list, in reverse order.
+
+4. file
